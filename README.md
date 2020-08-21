@@ -229,4 +229,4 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
   - where role.name='Alumni'
   - Display in the order of user_new.name,event.dateof
 
-Happy Coding ‚ù§Ô∏è
+Happy Coding ‚?§Ô∏?
